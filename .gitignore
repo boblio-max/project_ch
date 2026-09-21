@@ -1,0 +1,15 @@
+# Runtime artifacts — regenerated every sortie
+session.log
+tests/probe_out.txt
+
+# Origin build / cache
+__origin_build__/
+__origin_cache__/
+__pycache__/
+*.pyc
+*.obc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

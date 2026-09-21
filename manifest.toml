@@ -1,0 +1,8 @@
+name = "copyhatch"
+version = "0.1.0"
+author = "CopyHatch pilot"
+description = "FULL opencode mech suit TUI, written in Origin"
+
+[suite]
+entry = "main.or"
+backend = "vm"

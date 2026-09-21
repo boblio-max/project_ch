@@ -1,0 +1,16 @@
+/help
+/suit
+/tools
+/model
+2
+hello suit
+/bash
+echo armor-check
+/read
+main.or
+/write
+tests/probe_out.txt
+plating test line
+/log
+/suit
+/exit
